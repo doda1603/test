@@ -1,4 +1,4 @@
 <?php
 echo "test";
-// Test für Autodeploy
+// Test für Autodeploy2
 ?>
