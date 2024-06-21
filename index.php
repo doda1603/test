@@ -1,6 +1,6 @@
 <?php
 echo "test";
-// Test für Autodeploy6
+// test fürs automatische Git Deployment ... :)
 
 
 
